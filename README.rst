@@ -7,7 +7,7 @@ Acceptance criteria
 =======================
 * Mobile (ios / android) game of tic tac toe.
 * Computer (AI)  will never lose a game.
-* Application should be able to run based on HTML, CSS and Javascript.
+* Application should be able to run as a mobile app on either iOS or Android.
 * Game will let player choose to be either X or O, computer will take other choice.
 * Game will let player go first.
 
